@@ -143,10 +143,12 @@
       }
     }
   },
+  "specific": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global"
+      "global",
+      "specific"
     ]
   }
 }
